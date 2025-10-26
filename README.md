@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snarta-a&show_icons=true&locale=en&layout=compact" alt="snarta-a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-ghosh8124&show_icons=true&locale=en" alt="snarta-a" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-ghosh8124&" alt="snarta-a" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snarta-a&show_icons=true&locale=en" alt="snarta-a" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snarta-a&" alt="snarta-a" /></p>
 
 [![An image of @snarta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snarta)]
