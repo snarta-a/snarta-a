@@ -1,4 +1,4 @@
-# Welcome to Sayan Ghosh profile! <a href="#" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Snarta Paul profile! <a href="#" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <h3 align="center">- 👀 I’m interested in DATA SCIENCE AND WEB DEVELOPER</h3>
 
@@ -10,7 +10,7 @@
 
 - -👨‍🎓 I'm a ** CSE Student **
   
-- - 🌱 I’m currently learning **C++ and PYTHON and DSA and DBMS**
+- - 🌱 I’m currently learning **Java and PYTHON and DSA and DBMS**
 
 - -💬 Ask me about anything, I am happy to help
   
@@ -18,12 +18,12 @@
     
 - - 💞️ I’m looking to collaborate with **Google AND ORACLE**
 
-- - 📫 How to reach me: **sayan.ghosh8124@gmail.com**
+- - 📫 How to reach me: **infosnarta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sayan-ghosh-3b7113366" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan ghosh" height="30" width="40" />
+  <a href="www.linkedin.com/in/snarta-paul-88101630b" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snarta paul" height="30" width="40" />
   </a>
 </p>
 
@@ -33,7 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan-ghosh8124&show_icons=true&locale=en&layout=compact" alt="sayan-ghosh8124" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snarta-a&show_icons=true&locale=en&layout=compact" alt="snarta-a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-ghosh8124&show_icons=true&locale=en" alt="sayan-ghosh8124" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-ghosh8124&" alt="sayan-ghosh8124" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-ghosh8124&show_icons=true&locale=en" alt="snarta-a" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-ghosh8124&" alt="snarta-a" /></p>
+[![An image of @snarta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snarta)](https://holopin.io/@snarta)
